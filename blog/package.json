@@ -19,7 +19,7 @@
     "@sanity/core": "^1.149.16",
     "@sanity/default-layout": "^1.149.16",
     "@sanity/default-login": "^1.149.16",
-    "@sanity/desk-tool": "^1.149.16",
+    "@sanity/desk-tool": "^2.15.0",
     "@sanity/vision": "^1.149.16",
     "prop-types": "^15.6",
     "react": "^16.2",
